@@ -133,4 +133,11 @@ nav ul li a         {
     color: #fff;
     display: block;
     font-size: 80px;
+    height: 148px;
+    line-height: 140px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 148px;
+    border-radius: 50%;
 } 
